@@ -1,15 +1,14 @@
 package Basics;
 
+/*Problem: String and StringBuilder Manipulation
+ * Description: Demonstrate common properties and functions of String and StringBuilder in Java
+ * Approach: Call each method and print labeled output
+ * Time Complexity: O(1) per direct operation (varies for some methods like reverse/replace)
+ * Space Complexity: O(1) extra (excluding returned/new strings)
+ * Difficulty: Easy
+ * Note: AI help was taken for comments and text */
 public class StringManipulation {
     public static void main(String[] args) {
-        /*Problem: String and StringBuilder Manipulation
-         * Description: Demonstrate common properties and functions of String and StringBuilder in Java
-         * Approach: Call each method and print labeled output
-         * Time Complexity: O(1) per direct operation (varies for some methods like reverse/replace)
-         * Space Complexity: O(1) extra (excluding returned/new strings)
-         * Difficulty: Easy
-         * Note: AI help was taken for comments and text */
-
         String str1 = "Hello World!";
         String str2 = "hello world!";
         String str3 = "Hello World!";
